@@ -30,6 +30,8 @@
    ```sh
    # Note: If you create IAM user with programmatic access then provide Access keys. Otherwise region information is enough
    aws configure
+   
+   region name : ap-south-1
     ```
 
 1. Create a Route53 private hosted zone (you can create Public hosted zone if you have a domain)
